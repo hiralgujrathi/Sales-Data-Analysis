@@ -1,4 +1,1 @@
-- In this project, we utilize **Python Pandas** , **Matplotlib , Seaborn and Itertools** for a comprehensive analysis, tackling business inquiries through a year's worth of sales data comprising **186,850 orders** within an electronics dataset.
-- The dataset provides information about electronics , categorized by various factors such as month, product type, cost, purchase address, and more.
-- The goal is to reveal key insights to optimize sales strategies and drive profitability.
-- This analysis concludes that the highest sales occurred in December, with San Francisco emerging as the top-performing location. AAA batteries emerged as the best-selling product.
+In this project, we utilize Python Pandas and Matplotlib for tackling business inquiries The dataset provides information about electronics , categorized by various factors such as month, product type, cost, purchase address, and more. The goal is to reveal key insights like identifying products and product combinations that can boost profitability
